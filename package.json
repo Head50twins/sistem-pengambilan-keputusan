@@ -1,6 +1,6 @@
 {
-  "homepage": "https://head50twins.github.io/sistem-pengambilan-keputusan",
-  "name": "decision-making",
+  "homepage": "http://Head50twins.github.io/sistem-pengambilan-keputusan",
+  "name": "sistem-pengambilan-keputusan",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

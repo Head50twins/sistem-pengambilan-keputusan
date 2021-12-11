@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sistem-pengambilan-keputusan/static/css/main.4e6d9806.chunk.css",
+    "main.js": "/sistem-pengambilan-keputusan/static/js/main.93e3cd21.chunk.js",
+    "main.js.map": "/sistem-pengambilan-keputusan/static/js/main.93e3cd21.chunk.js.map",
+    "runtime-main.js": "/sistem-pengambilan-keputusan/static/js/runtime-main.4b31039c.js",
+    "runtime-main.js.map": "/sistem-pengambilan-keputusan/static/js/runtime-main.4b31039c.js.map",
+    "static/js/2.64e881a6.chunk.js": "/sistem-pengambilan-keputusan/static/js/2.64e881a6.chunk.js",
+    "static/js/2.64e881a6.chunk.js.map": "/sistem-pengambilan-keputusan/static/js/2.64e881a6.chunk.js.map",
+    "static/js/3.c45115b3.chunk.js": "/sistem-pengambilan-keputusan/static/js/3.c45115b3.chunk.js",
+    "static/js/3.c45115b3.chunk.js.map": "/sistem-pengambilan-keputusan/static/js/3.c45115b3.chunk.js.map",
+    "index.html": "/sistem-pengambilan-keputusan/index.html",
+    "static/css/main.4e6d9806.chunk.css.map": "/sistem-pengambilan-keputusan/static/css/main.4e6d9806.chunk.css.map",
+    "static/js/2.64e881a6.chunk.js.LICENSE.txt": "/sistem-pengambilan-keputusan/static/js/2.64e881a6.chunk.js.LICENSE.txt",
+    "static/media/analytics.979df364.svg": "/sistem-pengambilan-keputusan/static/media/analytics.979df364.svg",
+    "static/media/logo.60623ab4.png": "/sistem-pengambilan-keputusan/static/media/logo.60623ab4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b31039c.js",
+    "static/js/2.64e881a6.chunk.js",
+    "static/css/main.4e6d9806.chunk.css",
+    "static/js/main.93e3cd21.chunk.js"
+  ]
+}
